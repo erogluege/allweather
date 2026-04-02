@@ -25,7 +25,7 @@ Projeyi hiçbir App Store sürecine sokmadan direkt kendi telefonunuza saniyeler
 Vite tabanlı bu projeyi Node.js üzerinden hemen çalıştırabilirsiniz:
 
 ```bash
-git clone https://github.com/USERNAME/allweather.git
+git clone https://github.com/erogluege/allweather.git
 cd allweather
 npm install
 npm run dev
@@ -40,4 +40,4 @@ npx cap open ios  # Mac'inizdeki Xcode'u başlatır.
 
 ---
 
-*Sevgiyle tasarlandı ve kodlandı. - **Ege***
+*Tasarlandı ve kodlandı. - **Ege Eroglu***
